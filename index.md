@@ -1,3 +1,7 @@
+---
+layout: default
+title: Blogging Like a Hacker
+---
 # 学习资料与知识笔记
 
 ## 1.Python
